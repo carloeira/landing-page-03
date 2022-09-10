@@ -1,8 +1,24 @@
-*:focus {
-    outline: none;
+@charset "UFT-8"
+
+body {
+    background-color: #ddd;
+    color: rgba(0, 0, 0, 1);
+    font-family: Arial, sans-serif;
 }
+
+
 
 .centralizar {
     margin: 50% 0;
     text-align: center;
+}
+
+nav#end {
+    height: 15px;
+    text-align: center;
+}
+
+nav#menu {
+    display: block;
+
 }
