@@ -1,13 +1,23 @@
-@charset "UFT-8"
+@charset "UTF-8"
 
-
-
-nav#end {
-    height: 15px;
+body#faixa1 {
+    background-color: #004e71;
     text-align: center;
 }
 
-nav#menu {
-    display: block;
+footer#rodape {
+    text-align: center;
+    color: white;
+    background-color: #004e71;
+    padding: 1px;
+}
 
+footer#logo {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+section#perguntas {
+    text-align: center;
 }
