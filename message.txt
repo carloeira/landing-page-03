@@ -1,0 +1,87 @@
+```<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        *:focus {
+            outline: none;
+        }
+
+        .centralizar {
+            margin: 50% 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <table style="width: 100%;">
+        <tr style="height: 40px;">
+            <td colspan="4" style="border: 1px solid black; width: 33%;">
+                <span style="margin-left: 5%;">Faster</span>
+            </td>
+            <td colspan="4" style="border: 1px solid black; text-align: center; width: 33%;">
+                <input type="button" value="Home" id=""
+                    style="background-color: #FF6400; color: white; height: 100%; border: none; font-weight: 600;" />
+                <span>About</span> <span>Service</span> <span>Price</span> <span>Pages</span> <span>Contact</span>
+
+            </td>
+            <td colspan="4" style="border: 1px solid black;text-align: right; width: 33%;">
+                <input type="button" value="Get A Quote" id=""
+                    style="background-color: #FF6400; color: white; height: 60%; border: none; margin-right: 5%; font-weight: 400; font-size: 8px;" />
+            </td>
+        </tr>
+        <tr
+
+            style="height: 150px; background: url('https://t4.ftcdn.net/jpg/02/52/93/19/360_F_252931983_lhaXtgNqN4pal9g1xNHNi5eZ2naIcHOD.jpg') fixed no-repeat; background-size: cover;"
+            >
+            <td colspan="4" style="border: 1px solid black;width: 33%;"></td>
+            <td colspan="4" style="border: 1px solid black;width: 33%;">
+                <div class="centralizar">
+                    <div>Safe & Safer</div>
+                    <div>Logistics Services</div>
+
+                    <input type="text" value="Tracking Id" id="" style="border: none">
+                    <!--
+                    --><input type="button" value="Track & Trace" id="" style="margin-left: -5px; border: none">
+                </div>
+            </td>
+            <td colspan="4" style="border: 1px solid black;width: 33%;"></td>
+        </tr>
+        <tr style="height: 20px;">
+        </tr>
+        <tr style="background-color: gray; height: 150px; ">
+            <td colspan="3" style="border: 1px solid black;width: 20%;"></td>
+            <td colspan="3" style="border: 1px solid black;width: 40%;" class="centralizar">
+                <div>Get a Quote</div>
+                <div>Request a Free Quote</div>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos facilis numquam dicta accusamus
+                    distinctio consequuntur optio, cum rerum debitis nostrum? Praesentium voluptatibus nisi reiciendis
+                    aliquid eum tempora suscipit atque iste?</p>
+                <table style="margin-top: 20px; border: 1px solid black; width:100%">
+                    <tr>
+                        <td>
+                            <div style="color:#FF6400;font-size: 24px;font-weight: 600;">225</div>
+                            <div>skilled experts</div>
+                        </td>
+                        <td>1050 happy clients</td>
+                        <td>2500 complete projects</td>
+                    </tr>
+                </table>
+            </td>
+            <td colspan="3" style="border: 1px solid black;width: 20%;">
+                <form action="" style="display: flex;"">
+                    <div><input type="text" name="" id=""></div>
+                    <div><input type="text" name="" id=""></div>
+                    <div><input type="text" name="" id=""></div>
+                    <div><input type="button" name="" id=""></div>
+                </form>
+            </td>
+            <td colspan="3" style="border: 1px solid black;width: 20%;"></td>
+        </tr>
+    </table>
+</body>
+
+</html>```

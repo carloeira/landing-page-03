@@ -1,0 +1,9 @@
+:focus {
+    outline: none;
+}
+
+.centralizar {
+    margin: 50% 0;
+    text-align: center;
+}
+
