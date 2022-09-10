@@ -1,8 +1,12 @@
-@charset "UTF-8"
 
-body#faixa1 {
+* {
     background-color: #004e71;
     text-align: center;
+}
+
+header#faixa1 {
+    text-align: center;
+    background-color: #004e71;
 }
 
 footer#rodape {
@@ -16,8 +20,4 @@ footer#logo {
     text-align: center;
     margin: 0px;
     padding: 0px;
-}
-
-section#perguntas {
-    text-align: center;
 }
