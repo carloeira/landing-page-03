@@ -18,7 +18,7 @@ header > table {
 header > table button {
     color: white;
     border-color: white;
-
+    margin-right: 25px;
 }
 
 .container1 {    
