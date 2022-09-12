@@ -21,13 +21,9 @@ header > table button {
 
 }
 
-.container1 {
-<<<<<<< HEAD
-    background: url(imags/background_section_1.png);
-=======
+.container1 {    
     background: url(imags/bg1.png);
     font-family: Arial, Helvetica, sans-serif;
->>>>>>> 186a5e3f1a75d33ad0664b672fa2d111291e7e5b
     color: #004e71;
     background-repeat: no-repeat;
     background-size: cover;
@@ -111,4 +107,17 @@ footer#logo {
     margin-top: 0px;
 }
 
+body > section.container3 > div.container3{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
 
+body > section.container3 > div.container3 > div{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+
+}
