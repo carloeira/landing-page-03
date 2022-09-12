@@ -11,7 +11,7 @@ header > table {
     margin: 0;
 }
 
-.conteiner1 {
+.container1 {
     background: url(imags/background_section_1.png);
     font-family: Arial, Helvetica, sans-serif;
     color: #004e71;
@@ -26,32 +26,32 @@ header > table {
     box-sizing: border-box;
 }
 
-.conteiner1 img {
+.container1 img {
     height: 450px;
     display: block;
 }
 
-.conteiner1 p {
+.container1 p {
     font-size: 16px;
     color: #004e71;
     opacity: .5;
 }
 
-.conteiner1 p.paragrafo1 {
+.container1 p.paragrafo1 {
     font-size: 20px;
 }
 
-.conteiner1 h1 {
+.container1 h1 {
     font-size: 40px;
 }
 
-.conteiner1 .content {
+.container1 .content {
     position: absolute;
     text-align: initial;
     left: 300px;
 }
 
-.conteiner2 {
+.container2 {
     text-align: center;
     background-color: #0077f9;
     color: white;
@@ -59,7 +59,7 @@ header > table {
     height: 100%;
     margin: 0;
 }
-.conteiner2 p{
+.container2 p{
     margin: 0;
     padding: 16px 0;
 }
@@ -80,4 +80,5 @@ footer#logo {
     text-align: center;
     margin-top: 0px;
 }
+
 
