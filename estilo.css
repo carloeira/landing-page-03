@@ -17,6 +17,7 @@ header > table {
 
 header > table button {
     color: white;
+    font-size: 10px;
     border-color: white;
     margin-right: 25px;
 }
