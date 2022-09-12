@@ -11,9 +11,44 @@ header > table {
     margin: 0;
 }
 
-
 .conteiner1 {
     background: url(imags/background_section_1.png);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #004e71;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    padding: 0 300px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+}
+
+.conteiner1 img {
+    height: 450px;
+    display: block;
+}
+
+.conteiner1 p {
+    font-size: 16px;
+    color: #004e71;
+    opacity: .5;
+}
+
+.conteiner1 p.paragrafo1 {
+    font-size: 20px;
+}
+
+.conteiner1 h1 {
+    font-size: 40px;
+}
+
+.conteiner1 .content {
+    position: absolute;
+    text-align: initial;
+    left: 300px;
 }
 
 .conteiner2 {
@@ -23,6 +58,10 @@ header > table {
     width: 100%;
     height: 100%;
     margin: 0;
+}
+.conteiner2 p{
+    margin: 0;
+    padding: 16px 0;
 }
 
 #direita {
