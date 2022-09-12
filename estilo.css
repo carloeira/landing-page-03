@@ -11,6 +11,20 @@ header > table {
     margin: 0;
 }
 
+
+.conteiner1 {
+    background: url(imags/background_section_1.png);
+}
+
+.conteiner2 {
+    text-align: center;
+    background-color: #0077f9;
+    color: white;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
 #direita {
     text-align: left;
 }
