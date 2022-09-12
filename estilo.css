@@ -127,3 +127,8 @@ body > section.container3 > div.container3 > div{
     font-family: Arial, Helvetica, sans-serif;
  }
 
+ /*Ocultando barra de rolagem */
+ ::-webkit-scrollbar {
+    display: none;
+    }
+
