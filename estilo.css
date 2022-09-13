@@ -170,63 +170,10 @@ footer#logo {
     font-size: 100%;
 }
 
-<<<<<<< HEAD
  div#ajuste1.coluna-50 {
     margin: 0px;
     padding-right: 0px;
     padding: 50px, 0px, 50px, 100px;
     font-size: 10px;
  }
-=======
-.botao{
-    background: #F3F6F4;
-    color: #004E71;
-    border: 1px solid #004E71;
-    margin: 5px;
-    padding: 0px;
-    height: 70px;
-    width: 155px;
-}
-
-.botao:hover{
-    transform: scale(0.9);
-}
-
-.botao2{
-    background-color: #F3F6F4;
-    color: #004E71;
-    border: #004E71;
-    height: 25px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 100%;
-}
-
-.botao3{
-    padding: 40px;
-    background-color: #F3F6F4;
-    color: #004E71;
-    text-align: center;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
-
-.botao22{
-    background: #F3F6F4;
-    border: 1px solid #004E71;
-    color: #004E71;
-    height: 50px;
-    width: 280px;
-}
-
-.botao22:hover{
-    transform: scale(0.9);
-}
-
-
-
->>>>>>> bc79ce76d155a2c0abaad6c55e7445eb4f2f35ca
  
