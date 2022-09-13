@@ -19,6 +19,7 @@ header {
 
 .fraseheader {
     padding-right: 800px;
+    opacity: .8;
 }
 
 header > div > button {
@@ -28,6 +29,7 @@ header > div > button {
     margin-right: 50px;
     border: 1px solid #fff;
     padding: 6px;
+    opacity: .9;
 }
 
 .container1 {    
@@ -106,24 +108,34 @@ body > section.container2 > button {
     text-align: center;
     color: #004e71;
     padding: 80px;
+    padding-top: 40px;
     background-color: #F3F6F4;
  }
 
 .container4 {
     background-color: #0077f9;
-    height: 300px;
+    height: 400px;
+    width: 100%;
     color: white;
     display: flex;
+    justify-content: space-between;
     flex-direction: row;
-    padding: 20px;
+    padding: 0px;
 }
 
 .coluna-50 {
-    width: auto;
     text-align: left;
     position: relative;
-    margin: auto;
-    padding: 50px;
+    margin: 70px 600px 0px 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+
+.coluna-51 {
+    text-align: left;
+    position: relative;
+    margin: 70px 0px 0px 200px;
+    padding: 0px;
 }
 
 #direita {
@@ -135,7 +147,6 @@ body > section.container2 > button {
     text-align: left;
     font-size: 15px;
 }
-
 
 footer#rodape {
     text-align: center;
@@ -216,11 +227,3 @@ footer#logo {
 .botao22:hover {
     transform: scale(0.9);
 }
-
- div#ajuste1.coluna-50 {
-    margin: 0px;
-    padding-right: 0px;
-    padding: 50px, 0px, 50px, 100px;
-    font-size: 10px;
- }
- 
