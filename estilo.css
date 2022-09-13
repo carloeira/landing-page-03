@@ -25,8 +25,9 @@ header > div > button {
     background-color: #e87c25;
     color: white;
     font-size: 10px;
-    border-color: white;
     margin-right: 50px;
+    border: 1px solid #fff;
+    padding: 6px;
 }
 
 .container1 {    
@@ -91,7 +92,7 @@ header > div > button {
     margin: 6px;
 }
 
-body > section.container2 > button{
+body > section.container2 > button {
     color: #004e71;
     background-color: #fff;
     font-size: 18px;
@@ -99,6 +100,13 @@ body > section.container2 > button{
     width: 290px;
     height: 50px;
     border: 0px;
+ }
+
+ body > section.container3 {
+    text-align: center;
+    color: #004e71;
+    padding: 80px;
+    background-color: #F3F6F4;
  }
 
 .container4 {
@@ -142,19 +150,12 @@ footer#logo {
     margin-top: 0px;
 }
 
- body > section.container3{
-    text-align: center;
-    color: #004e71;
-    padding: 80px;
-    background-color: #F3F6F4;
- }
-
  /*Ocultando barra de rolagem */
  ::-webkit-scrollbar {
     display: none;
 }
 
-.botao1{
+.botao1 {
     background-color: #F3F6F4;
     color: #6A95AA;
     margin: 24px;
@@ -168,7 +169,7 @@ footer#logo {
     font-size: 100%;
 }
 
-.botao{ 
+.botao { 
     background: #F3F6F4;
     color: #004E71;
     border: 1px solid #004E71;
@@ -178,11 +179,11 @@ footer#logo {
     width: 155px;
 }
 
-.botao:hover{
+.botao:hover {
     transform: scale(0.9);
 }
 
-.botao2{
+.botao2 {
     background-color: #F3F6F4;
     color: #004E71;
     border: #004E71;
@@ -194,7 +195,7 @@ footer#logo {
     font-size: 100%;
 }
 
-.botao3{
+.botao3 {
     padding: 40px;
     background-color: #F3F6F4;
     color: #004E71;
@@ -204,7 +205,7 @@ footer#logo {
     justify-content: center;
 }
 
-.botao22{
+.botao22 {
     background: #F3F6F4;
     border: 1px solid #004E71;
     color: #004E71;
@@ -212,7 +213,7 @@ footer#logo {
     width: 280px;
 }
 
-.botao22:hover{
+.botao22:hover {
     transform: scale(0.9);
 }
 
