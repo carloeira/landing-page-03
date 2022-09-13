@@ -82,6 +82,7 @@ header > table button {
     text-decoration: none;
     display: flex;
     flex-direction: row;
+    padding: 40px;
 }
 
 .coluna-50 {
@@ -138,3 +139,18 @@ body > section.container3 > div.container3 > div{
     border: none;
     cursor: pointer;
  }
+
+ body > section.container2 > button{
+    color: #FFFFFF;
+    font-size: 30px;
+    border-color: #FFFFFF;
+    outline:none;
+    width: 450px;
+    height: 90px;
+  
+ }
+
+ 
+ 
+ 
+ 
