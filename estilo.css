@@ -16,7 +16,6 @@ header > table {
 }
 
 
-
 td#esquerda {
     display: flex;
     justify-content: left;
@@ -109,7 +108,7 @@ body > section.container2 > button{
     color: white;
     display: flex;
     flex-direction: row;
-    padding: 0px;
+    padding: 20px;
 }
 
 .coluna-50 {
