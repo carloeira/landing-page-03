@@ -129,24 +129,11 @@ footer#logo {
     margin-top: 0px;
 }
 
-body > section.container3 > div.container3{
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: center;
-    align-items: center;
-}
-
-body > section.container3 > div.container3 > div{
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-    align-items: center;
-
-}
  body > section.container3{
     text-align: center;
     padding: 80px;
     font-family: Arial, Helvetica, sans-serif;
+    
  }
 
  /*Ocultando barra de rolagem */
@@ -161,6 +148,13 @@ body > section.container3 > div.container3 > div{
  }
 
 
+
+ body > section.container3 > table{
+    margin-left: 550px;
+   padding: 50px;
+   border-collapse: collapse;
+
+}
 
  
  
