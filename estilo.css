@@ -87,10 +87,12 @@ header > table button {
 
 body > section.container2 > button{
     color: #004e71;
+    background-color: #fff;
     font-size: 18px;
     outline:none;
     width: 290px;
     height: 50px;
+    border: 0px;
  }
 
 .container4 {
